@@ -157,7 +157,7 @@ predicting the correct disease category with high accuracy.
 
 <p>
 <b>Sneha Nuchha</b><br>
-🎓 M.Tech (Artificial Intelligence & Machine Learning)<br>
+🎓 B.E (Artificial Intelligence & Machine Learning)<br>
 📊 Data Science Enthusiast<br>
 🤖 Machine Learning Engineer<br>
 🚀 Passionate about AI & Healthcare Analytics
