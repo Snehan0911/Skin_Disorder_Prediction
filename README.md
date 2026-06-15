@@ -5,6 +5,8 @@
     <h1>🩺 Skin Disorder Prediction Using Machine Learning</h1>
 </header>
 
+Predicting different types of skin disorders using machine learning models trained on dermatological datasets.
+
 <div class="container">
 
 <div class="card">
@@ -29,11 +31,11 @@ predicting the correct disease category with high accuracy.
 <h2>📂 Dataset Information</h2>
 
 <ul>
-<li>📋 Total Records: 366</li>
-<li>📈 Features: 34</li>
-<li>🏥 Domain: Healthcare</li>
-<li>🎯 Target: Skin Disease Class</li>
-<li>🤖 Problem Type: Multi-Class Classification</li>
+<li>📋 Total Records   : 366</li>
+<li>📈 Features        : 35</li>
+<li>🏥 Domain          : Healthcare</li>
+<li>🎯 Target Classes  : 6</li>
+<li>🤖 Problem Type    : Multi-Class Classification</li>
 </ul>
 </div>
 
@@ -158,9 +160,9 @@ predicting the correct disease category with high accuracy.
 <p>
 <b>Sneha Nuchha</b><br>
 🎓 B.E (Artificial Intelligence & Machine Learning)<br>
-📊 Data Science Enthusiast<br>
+📊 Machine Learning | Data Science | AI Enthusiast<br>
 🤖 Machine Learning Engineer<br>
-🚀 Passionate about AI & Healthcare Analytics
+🚀 Passionate about AI & ML 
 </p>
 
 </div>
