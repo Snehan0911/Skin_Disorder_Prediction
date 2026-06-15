@@ -1,14 +1,8 @@
-# Skin_Disorder_Prediction
+
 
 
 <header>
     <h1>🩺 Skin Disorder Prediction Using Machine Learning</h1>
-    <p>Healthcare AI Project | Multi-Class Classification</p>
-
-    <span class="badge">🐍 Python</span>
-    <span class="badge">🤖 Machine Learning</span>
-    <span class="badge">📊 Data Science</span>
-    <span class="badge">🏥 Healthcare</span>
 </header>
 
 <div class="container">
